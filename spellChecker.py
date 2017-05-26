@@ -1,4 +1,4 @@
-#Kevin Muriuki,Philip Kyd
+#Phil K, Kevin M
 def ignoreCaseAndPunc(word):
     """
         removes capitalization and punctuation from an input word

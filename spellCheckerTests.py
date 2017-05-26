@@ -1,5 +1,4 @@
-#Philip Kyd,Kevin Muriuki
-
+#Phil K, Kevin M
 import unittest
 from spellChecker import *
 
